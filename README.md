@@ -1,2 +1,26 @@
-# Font-File-Bundler
- Desktop app for Mac that bundles font files into folders for each family
+![](https://tama-san.com/icon/icon128-FontFileBundler.png)
+
+# Font File Bundler
+フォントファイルをファミリーごとにフォルダ分けするMac用デスクトップアプリ（ドロップレット）
+
+## システム要件
+* OS X 10.9以降
+* ダウンロードして解凍した直後は、右クリックメニューの［開く］を選択して起動してください。
+
+## 使い方
+Font File Bundlerのアプリアイコンに複数のフォントファイルをまとめてドラッグ＆ドロップします。
+
+### 仕様
+* 日本語、ハングル、簡体字、繁体字のファミリー名に対応。
+* 上記以外の言語は英語名になります。
+
+## 更新履歴
+* 3.0.0
+	* フォントファミリー名の取得を改善した。
+	* プラグインを使用しないようにソースを書き直した。
+	
+## 開発環境
+Xojo 2018r2
+
+## ライセンス
+ [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
