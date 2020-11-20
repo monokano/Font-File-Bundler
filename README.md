@@ -1,4 +1,4 @@
-![](https://tama-san.com/icon/icon128-FontFileBundler_new.png)
+![](https://tama-san.com/icon/icon128-FontFileBundler.png)
 
 # Font File Bundler
 フォントファイルをファミリーごとにフォルダ分けするMac用デスクトップアプリ（ドロップレット）
@@ -15,7 +15,7 @@ Font File Bundlerのアプリアイコンに複数のフォントファイルを
 * 上記以外の言語は英語名になります。
 
 ## 更新履歴
-* 3.0.1
+* 3.0.2
 	* アイコンをブラッシュアップ。
 * 3.0.0
 	* フォントファミリー名の取得を改善した。
