@@ -1,4 +1,4 @@
-![](https://tama-san.com/icon/icon128-FontFileBundler302.png)
+![](https://tama-san.com/icon/icon128-FontFileBundler302b.png)
 
 # Font File Bundler
 フォントファイルをファミリーごとにフォルダ分けするMac用デスクトップアプリ（ドロップレット）
